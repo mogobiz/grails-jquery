@@ -27,7 +27,7 @@ class JqueryGrailsPlugin {
 
 	static SHIPPED_SRC_DIR = 'jquery'
 
-	def grailsVersion = "1.3 > *"
+	def grailsVersion = "2.5 > *"
 
 	def pluginExcludes = [
 		'docs/**',
