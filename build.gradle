@@ -1,3 +1,4 @@
+archivesBaseName = "grails-jquery"
 version "1.9.1"
 
 dependencies {
